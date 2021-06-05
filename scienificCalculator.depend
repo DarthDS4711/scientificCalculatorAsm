@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1622678182 source:d:\documents\programas\c++\scienificcalculator\main.cpp
+	<iostream>
+	"MathAsm.h"
+	"MenuProgram.h"
+
+1622845045 d:\documents\programas\c++\scienificcalculator\menuprogram.h
+	"MathAsm.h"
+
+1622849483 d:\documents\programas\c++\scienificcalculator\mathasm.h
+	<iostream>
+
+1622849698 source:d:\documents\programas\c++\scienificcalculator\menuprogram.cpp
+	"MenuProgram.h"
+
+1622849545 source:d:\documents\programas\c++\scienificcalculator\mathasm.cpp
+	"MathAsm.h"
+

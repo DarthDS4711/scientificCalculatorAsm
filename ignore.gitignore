@@ -1,0 +1,7 @@
+#Ignore files generate of Code Blocks 20.03
+*.exe
+*.cbp
+*.depend
+*.layout
+bin/
+obj/
